@@ -1,1 +1,2 @@
 Nội dung A nhánh alpha
+Nội dung A sửu bởi nhánh beta
